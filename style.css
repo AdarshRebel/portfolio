@@ -165,7 +165,7 @@ section{
     color: #7b0707;
     margin: 5px 15px;
     font-size: 1.5rem;
-    transition: 0.2s linear;
+    transition: 0.1s linear;
 }
 .social-links i:hover{
     scale: 1.3;
