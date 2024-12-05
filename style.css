@@ -125,35 +125,6 @@ hr{
     width: 30vw;
     border-radius: 50%;
 }
-.home-img .image{
-    width: 80vh;
-    height: 80vh;
-    border-radius: 100%;
-    overflow: hidden;
-    box-shadow: 0 0 50px #7b0707;
-}
-
-.home-img .image img{
-    width: 100%;
-}
-
-.home-img .image:hover{
-    animation: animate 1.5s ease-in-out infinite;
-}
-@keyframes animate {
-    0%{
-        scale: 1;
-    }
-    
-    50%{
-        scale: 1.05;
-    }
-    
-    100%{
-        scale: 1;
-    }
-}
-
 
 .home-content h3 {
     font-size: 3.2rem;
